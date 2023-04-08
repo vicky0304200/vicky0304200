@@ -1,7 +1,8 @@
 # 💫 About Me:
-       <p align="center">SOFTWARE DEVELOPER</p>
-       <br>
-       <p align="center"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
+       SOFTWARE DEVELOPER
+       
+##
+<p align="center"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
        
 
 
